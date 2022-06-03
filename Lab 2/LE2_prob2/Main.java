@@ -5,5 +5,5 @@ public class Main
 		m.show();   // function overridden
 		Child ch = new Child();
 		ch.show();  // function overriding
-	}
+	} //hello
 }
